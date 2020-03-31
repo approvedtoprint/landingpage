@@ -157,7 +157,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/a2p-logo-for-web-550x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a2p-logo-for-web-600x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
