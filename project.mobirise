@@ -38,8 +38,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Landing Page",
-        "meta_descr": "",
+        "title": "Approved to Print",
+        "meta_descr": "Printing Services",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
