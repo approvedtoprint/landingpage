@@ -492,11 +492,11 @@ section.form .container {
   color: #000000;
 }
 #ext_menu-o .link {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 #ext_menu-o .dropdown-item,
 #ext_menu-o .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.921rem;
 }
 #ext_menu-o .link:hover,
 #ext_menu-o .dropdown-item:hover,

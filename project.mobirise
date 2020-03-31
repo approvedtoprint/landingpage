@@ -93,10 +93,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": false,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -123,10 +123,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -157,7 +157,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/a2p-logo-final-1660x128.png",
+              "src": "@PROJECT_PATH@/assets/images/a2p-logo-for-web-550x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
